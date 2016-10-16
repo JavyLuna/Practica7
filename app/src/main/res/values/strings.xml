@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica #7</string>
+    <string name="title">Aplicacion de Android #7</string>
+    <string name="action_settings">Settings</string>
+    <string name="sub">Cateto #1</string>
+    <string name="sub2">Cateto #2</string>
+    <string name="boton">Calcular</string>
+</resources>
